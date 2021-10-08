@@ -13,5 +13,8 @@
   "devDependencies": {
     "chai": "2.0.0",
     "mocha": "8.0.0"
+  },
+  "engines": {
+    "node": "14.17.5"
   }
 }
