@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "workspaces": [
+    "workspace_1",
+    "workspace_2"
+  ],
+  "packageManager": "yarn@3.0.2"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "workspace_2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Workspace 2",
+  "author": "Taka",
+  "license": "NOT APPLICABLE",
+  "dependencies": {
+    "aws-sdk": "2.800.0",
+    "axios": "0.22.0"
+  },
+  "devDependencies": {
+    "eslint": "7.0.0"
+  }
+}
